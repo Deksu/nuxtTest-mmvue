@@ -8,7 +8,7 @@
 
         <header>
           <div class="header-logo">
-              <a href="/"><img src="~/static/mattimarin-headerimg.png" alt="img-logo"></a>
+              <!-- <a href="/"><img src="~/static/mattimarin-headerimg.png" alt="img-logo"></a> -->
           </div>
           <nav>
             <ul>
