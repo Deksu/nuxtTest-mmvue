@@ -11,7 +11,7 @@
 
     </div>
     <div class="image-container">
-        <img src="http://via.placeholder.com/350x400" alt="placeholder">
+        <img src="/profile-pic-placeholder.png" alt="placeholder">
     </div>
 </div>
 </template>
