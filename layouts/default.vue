@@ -103,7 +103,7 @@ html {
 
 .img-container {
     /* min-height: 100vh; */
-    background-image: url('/mm-sormus-min.jpg');
+    background-image: url('/mm-sormus-fullhd-2.jpg');
     /* background-size: 100vw; */
     height: 100vh;
     width: 100vw;
