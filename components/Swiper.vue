@@ -28,14 +28,14 @@
             el: '.swiper-pagination',
             dynamicBullets: true
           },
-          on: {
-            slideChange() {
-              console.log('onSlideChangeEnd', this);
-            },
-            tap() {
-              console.log('onTap', this);
-            }
-          }
+          // on: {
+          //   slideChange() {
+          //     console.log('onSlideChangeEnd', this);
+          //   },
+          //   tap() {
+          //     console.log('onTap', this);
+          //   }
+          // }
         }
       }
     },
