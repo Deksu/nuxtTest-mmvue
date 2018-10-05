@@ -8,7 +8,7 @@
 
         <header>
           <div class="header-logo">
-              <!-- <a href="/"><img src="~/static/mattimarin-headerimg.png" alt="img-logo"></a> -->
+              <a href="/"><img src="https://imgur.com/4QMsf3W.png" alt="img-logo"></a>
           </div>
           <nav>
             <ul>
@@ -103,7 +103,7 @@ html {
 
 .img-container {
     min-height: 100vh;
-    /* background-image: url('~/static/mm-sormus.jpg'); */
+    background-image: url('https://imgur.com/Rhzskdq.jpg');
     background-size: 100vw;
     background-repeat: no-repeat;
     z-index: 1;
