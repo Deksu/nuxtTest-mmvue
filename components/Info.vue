@@ -13,7 +13,7 @@
             <p>Keep scrolling to view my work. My contact information can be found from my bio. I also post images of
             my work on my instagram account, check it by clicking the icon below.</p>
 
-            <!-- <a href="http://www.instagram.com/mattimikaeli/" target="_blank" id="insta-icon"><img src="~/static/insta-icon.svg" alt="instagram-icon"></a> -->
+            <a href="http://www.instagram.com/mattimikaeli/" target="_blank" id="insta-icon"><img src="/insta-icon.svg" alt="instagram-icon"></a>
         </div>
     </div>
 </template>

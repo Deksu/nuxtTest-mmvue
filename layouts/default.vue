@@ -102,9 +102,13 @@ html {
 /* HEADER CSS */
 
 .img-container {
-    min-height: 100vh;
+    /* min-height: 100vh; */
     background-image: url('https://imgur.com/Rhzskdq.jpg');
-    background-size: 100vw;
+    /* background-size: 100vw; */
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
 }
